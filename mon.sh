@@ -5,7 +5,7 @@ echo "##########################################################################
 echo
 # Upadating
 sudo apt-get update
-sudo apt-get install tar wget -y
+sudo apt-get install aircrack-ng tar wget -y
 
 # Installing Re4son kernel in Raspbian
 sudo su
