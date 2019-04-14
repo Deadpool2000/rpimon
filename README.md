@@ -20,4 +20,4 @@ Python 3.x
 
 ## To check Packet Injection is working
 1) Run **'sudo aireplay-ng --test wlan0mon'**
-if you get output '**Injection is working!**' then packet injection is working properly.
+2) If you get output '**Injection is working!**' then packet injection is working properly.
