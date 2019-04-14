@@ -16,8 +16,8 @@ Python 3.x
 
 ## To check Monitor mode is working
 1) After successfull installation (without any error) run 'sudo mon0 up' command.
-2) then run 'sudo airodump-ng wlan0mon'
+2) then run **'sudo airodump-ng wlan0mon'**
 
 ## To check Packet Injection is working
-1) Run 'sudo aireplay-ng --test wlan0mon'
-if you get output 'Injection is working!' then packet injection is working properly.
+1) Run **'sudo aireplay-ng --test wlan0mon'**
+if you get output '**Injection is working!**' then packet injection is working properly.
