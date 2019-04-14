@@ -6,7 +6,7 @@ Python 3.x
 
 ## Installation
 1) git clone https://github.com/Deadpool2000/rpimon.git
-2) cd rpimon0
+2) cd rpimon
 3) sudo su
 4) python3 mon.py
 
