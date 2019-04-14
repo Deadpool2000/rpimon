@@ -1,5 +1,5 @@
 # rpimon0
-Enable Monitor mode &amp; Packet Injection in Raspberry Pi (Raspbian OS).
+Enable Monitor mode &amp; Packet Injection in Raspberry Pi.
 
 ## Requirements
 Python 3.x
@@ -12,7 +12,7 @@ Python 3.x
 
 ## Info
 1) This script install Re4son Kernel in raspbian os.
-2) This script works on Raspberry Pi 3B/B+,Raspberry Pi Zero W.
+2) This script works on Raspberry Pi 3B/B+,Raspberry Pi Zero W (Tested on Raspbian OS)
 
 ## To check Monitor mode is working
 1) After successfull installation (without any error) run 'sudo mon0 up' command.
