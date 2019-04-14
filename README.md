@@ -11,12 +11,13 @@ Python 3.x
 4) python3 mon.py
 
 ## Info
-1) This script install Re4son Kernel in raspbian os.
+1) This script install **Re4son** Kernel which enables monitor mode & packet injectionin Raspberry Pi.
 2) This script works on Raspberry Pi 3B/B+,Raspberry Pi Zero W (Tested on Raspbian OS)
 
 ## To check Monitor mode is working
-1) After successfull installation (without any error) run 'sudo mon0 up' command.
-2) then run **'sudo airodump-ng wlan0mon'**
+1) After successfull installation,Reboot Pi
+2) After rebooting,run '**sudo mon0 up**' command.
+3) then run **'sudo airodump-ng wlan0mon'**
 
 ## To check Packet Injection is working
 1) Run **'sudo aireplay-ng --test wlan0mon'**
