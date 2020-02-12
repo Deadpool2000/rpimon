@@ -14,6 +14,8 @@ Python 3.x
 1) This script install **Re4son** Kernel which enables monitor mode & packet injection in Raspberry Pi.
 2) This script works on Raspberry Pi 3B/B+,Raspberry Pi Zero W (**Tested on Raspbian OS**)
 
+## Re4son kernel - [Click Here](https://re4son-kernel.com/re4son-pi-kernel/)
+
 ## To check Monitor mode is working
 1) After successfull installation,Reboot Pi
 2) After rebooting,run '**sudo mon0 up**' command.
