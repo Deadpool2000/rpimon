@@ -1,7 +1,8 @@
 # rpimon
-Enable Monitor mode &amp; Packet Injection in Raspberry Pi.
+Enable Monitor mode &amp; Packet Injection in Raspberry Pi
 
-![Raspi-PGB001](https://user-images.githubusercontent.com/32305505/82068863-31cc2000-96f0-11ea-9460-78aedc3a1247.png)
+![1589557277389~2](https://user-images.githubusercontent.com/32305505/82069325-c5055580-96f0-11ea-96c6-7e2fedd21ec9.jpg)
+
 
 ## Requirements
 Python 3.x
