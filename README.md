@@ -22,8 +22,10 @@ Python 3.x
 ## To check Monitor mode is working
 1) After successfull installation,Reboot Pi
 2) After rebooting,run '**sudo mon0 up**' command.
-3) then run **'sudo airodump-ng wlan0mon'**
+3) then run **'sudo airodump-ng mon0'**
 
 ## To check Packet Injection is working
-1) Run **'sudo aireplay-ng --test wlan0mon'**
+1) Run **'sudo aireplay-ng --test mon0'**
 2) If you get output '**Injection is working!**' then packet injection is working properly.
+
+## Note - If you are connected to any wifi,monitor mode will not affect on connected wifi. i.e. you can use internet & attack AP at same time!
