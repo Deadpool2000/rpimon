@@ -31,12 +31,20 @@ Python 3.x
 ## Note - If you are connected to any wifi,monitor mode will not affect on connected wifi. i.e. you can use internet & attack AP at same time!
 
 
-# Show your support
+# Donate
 
-Don't buy me a coffee.I HATE COFFEE!
 
-Just show your support here -
+### Don't buy me a coffee. I HATE COFFEE!
 
-[![Bitcoin Donate Button](https://deadpool2000.github.io/bitcoin-395-920580(1).png)](https://deadpool2000.github.io/btc.html)
 
-[![Ethereum Donate Button](https://deadpool2000.github.io/New%20Project(1).png)](https://deadpool2000.github.io/eth.html)
+### Just show your support here -
+
+
+**Bitcoin - 34TbAyKNqpEEA9123FZApkkKZ4AvWjbkom**
+
+**Ethereum - 0x8Efc824b3b3702c3b2421cAE6c47912262185042**
+
+**Litecoin -  M8FodbAuYQsWXb5VXTSx6F3VCbtcXk7skz**
+
+**Ripple(XRP) -  Address [rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg]  / Tag [1493819154]**
+
